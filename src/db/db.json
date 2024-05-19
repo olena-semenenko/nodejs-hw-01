@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Juan Schaefer",
+    "phone": "(344) 359-7537 x65807",
+    "email": "Chase_Steuber46@hotmail.com",
+    "job": "Direct Mobility Facilitator"
+  },
+  {
+    "name": "Cody Kuvalis",
+    "phone": "879.544.8959 x1693",
+    "email": "Joyce33@yahoo.com",
+    "job": "International Optimization Technician"
+  },
+  {
+    "name": "Christy Gleason",
+    "phone": "511-775-5941 x7932",
+    "email": "Miller79@hotmail.com",
+    "job": "Internal Research Technician"
+  },
+  {
+    "name": "Rogelio Schroeder",
+    "phone": "409.290.6404 x4807",
+    "email": "Joshuah_Marvin85@hotmail.com",
+    "job": "District Applications Developer"
+  },
+  {
+    "name": "Tracy Kovacek",
+    "phone": "1-833-423-8771 x6381",
+    "email": "Glennie.Altenwerth88@gmail.com",
+    "job": "International Optimization Representative"
+  },
+  {
+    "name": "Stanley Murazik",
+    "phone": "368-218-0141 x9015",
+    "email": "Adrienne_McLaughlin@hotmail.com",
+    "job": "Corporate Quality Facilitator"
+  }
+]
